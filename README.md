@@ -9,3 +9,5 @@ It is plain html + JS with Tailwind CSS hosted on Github pages, for a clean, lig
 
 * Charmorph Github: https://github.com/Upliner/CharMorph 
 * Discord server: https://discord.gg/bMsvxN3jPY
+
+The repository I have forked is a fork of my original repository by Landocoderissian. All contributions made by me are under the names: plschohn, philipschohn, or landocoderissian
