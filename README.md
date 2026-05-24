@@ -14,6 +14,6 @@ The repository I have forked is a fork of my original repository by Landocoderis
 
 Some important commits:
 
-Commit 43f282c
-Commit 89174fb
-Commit 7ad1924
+Commit [43f282c](https://github.com/plschohn-blip/CharmorphWeb/commit/43f282c48c869aaa839f2b56ce998a51d8a192b8)
+Commit [89174fb](https://github.com/plschohn-blip/CharmorphWeb/commit/89174fbc8dd8519786df0c5017e72ec66491cf8e)
+Commit [7ad1924](https://github.com/plschohn-blip/CharmorphWeb/commit/7ad19242030ef39a923eb17f1baabd5a39e23161)
